@@ -6,3 +6,7 @@ thirsty of knowledge
 astronomy
 
 second law of thermodynamics
+-----------------------------
+the entropy of a system and plus surroundings will be constant or increasing
+
+entropy - how the energy can concentrated in it.
